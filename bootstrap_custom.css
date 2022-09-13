@@ -7373,7 +7373,7 @@ textarea.form-control-lg {
   color: #dc3545 !important;
 }
 
-.text-light {
+.text-light, .card {
   color: #f8f9fa !important;
 }
 
